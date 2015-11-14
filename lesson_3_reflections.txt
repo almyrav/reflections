@@ -7,3 +7,12 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 
 you might want to check that the remote repository is in the state you want it to be in first
+
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+forks: used to copy someone else's repository and make it unique to you so you can add and
+suggest changes; clones: used to get a repository from a remote server so that you can
+modify its files on your local computer; branches: used to organize large projects in a
+logical way
+
