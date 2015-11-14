@@ -6,4 +6,28 @@ directory to make commits on git
 How is the staging area different from the working directory and the repository? What value
 do you think it offers?
 
-the staging area allows you to separate the files you want to commit from the working directory to the repository; this is important for organization and selective committing 
+the staging area allows you to separate the files you want to commit from the working
+directory to the repository; this is important for organization and selective committing
+
+How can you use the staging area to make sure you have one commit per logical change? 
+
+you can compare the changes in the files while it is in the working directory and when it
+is about to be committed
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+branches are helpful because they are labelled; these labels can be used to keep track of
+experimental changes or documentation; you should also have a post-production branch that
+can always be shared publically and a developing branch
+
+How do the diagrams help you visualize the branch structure?
+
+diagrams makes tracking the relationships between branches easier
+
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+merging two branches adds former independent features/fixes to the master branch; since
+the branches are merging, the the merged node must be represented to show the new change
+
