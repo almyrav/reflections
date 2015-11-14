@@ -31,3 +31,7 @@ diagram the way we do?
 merging two branches adds former independent features/fixes to the master branch; since
 the branches are merging, the the merged node must be represented to show the new change
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging is easy and fast but it does not give the user any control;
+manual merging gives the user control but it takes longer
