@@ -27,3 +27,12 @@ would be harder?
 I could collaborate by exchanging files through email or share files through Dropbox; it
 would be easier to share files instantly with whomever I want but neither option provides
 the organization capabilities that Git or GitHub provides
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+you want to make changes in a separate branch when you are collaborating with others and
+you want to make a suggestion; you want to make changes directly in master when you know
+it should be in the public version; making the changes in a separate branch allows you to
+show your intention without changing the main branch but it is a longer process than
+making changes in the master
