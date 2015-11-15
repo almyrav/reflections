@@ -20,3 +20,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 it is a good idea to keep track of the last known state of the remote on the local
 machine to use as comparison 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+I could collaborate by exchanging files through email or share files through Dropbox; it
+would be easier to share files instantly with whomever I want but neither option provides
+the organization capabilities that Git or GitHub provides
