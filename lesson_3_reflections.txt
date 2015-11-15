@@ -16,3 +16,7 @@ suggest changes; clones: used to get a repository from a remote server so that y
 modify its files on your local computer; branches: used to organize large projects in a
 logical way
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+it is a good idea to keep track of the last known state of the remote on the local
+machine to use as comparison 
